@@ -1,0 +1,10 @@
+About Me
+
+## About Me
+
+Hi, I’m Brandi 👋  
+I’m an aspiring web developer who loves learning by building. Right now, I’m diving deep into the foundations of web development—HTML, CSS, and JavaScript—and putting that knowledge into practice with small projects that challenge me to think like a developer.
+
+I’m especially interested in writing clean, simple code and breaking problems down into manageable steps. My long-term goal is to grow into a full-stack developer and eventually work on projects that combine creativity with problem-solving.
+
+Outside of coding, I enjoy exploring new ideas, staying curious, and celebrating progress—big or small. This portfolio is both a showcase of my journey and a reminder that every line of code gets me one step closer.
